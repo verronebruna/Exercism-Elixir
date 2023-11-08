@@ -14,3 +14,7 @@ Este es un repositorio de mis soluciones a los ejercicios de Elixir en [Exercism
 | [Hello World](https://exercism.org/tracks/elixir/exercises/hello-world) | :heavy_check_mark: |
 | [Lasagna](https://exercism.org/tracks/elixir/exercises/lasagna) | :heavy_check_mark: |
 | [Pacman Rules](https://exercism.org/tracks/elixir/exercises/pacman-rules) | :heavy_check_mark: |
+| [Freelancer-Rates](https://exercism.org/tracks/elixir/exercises/freelancer-rates) |  |
+| [Secrets](https://exercism.org/tracks/elixir/exercises/secrets) |  |
+| [Log-Level](https://exercism.org/tracks/elixir/exercises/log-level) |  |
+| [Language-List](https://exercism.org/tracks/elixir/exercises/language-list) |  |
